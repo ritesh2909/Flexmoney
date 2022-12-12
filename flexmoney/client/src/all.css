@@ -1,0 +1,16 @@
+.first {
+    font-size: 36px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-left: 278px;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#second {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
